@@ -1,5 +1,5 @@
 ﻿<?php
-  include('lib/functions.service.php');
+  include('lib/functions.service.php'); 
   
   header("Access-Control-Allow-Origin: *");
   header("Access-Control-Allow-Methods: *");
